@@ -1,0 +1,34 @@
+.head-links{
+	padding: 20px;
+	background-color: darkgrey;
+}
+.head-links a{
+	padding-left: 5%;
+}
+.header{
+	padding: 30px;
+	background-color: #2f4f4f;
+}
+.menu{
+}
+.menu a{
+	display: block;
+	padding-top: 20px;
+	padding-left: 25%;
+	padding-bottom: 5%;
+}
+.content{
+	background-color: grey;
+}
+.footer a{
+	text-decoration: none;
+	color: blue;
+}
+.footer a:hover{
+	color: black;
+	text-decoration: underline;
+	transition: 0.3s ease;
+}
+.footer{
+	color: red;
+}
